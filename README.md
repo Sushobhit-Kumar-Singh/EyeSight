@@ -1,4 +1,5 @@
-![alt text](https://i.ibb.co/PwgBSHF/Eyesight-logo-2.png "Logo")
+## Project Logo
+![alt text](https://i.ibb.co/L1FY8Qh/rsz-eyesight-logo-2.png).
 
 ## About the Project
 
@@ -39,4 +40,11 @@ Navigate to any page of the site with the following simple commands. Click on th
 * Face : to navigate to the face recognition page
 * Object : to navigate to the object recognition page 
 * Read : to navigate to the read text page
-* About : to navigate to the about us page 
+* About : to navigate to the about us page
+
+## SreenShots Of Project 
+![alt text](https://i.ibb.co/M7VHNCX/homepage.png)
+![alt text](https://i.ibb.co/GPYZk6r/vision.png)
+![alt text](https://i.ibb.co/zFqVGmp/object-recog.png)
+![alt text](https://i.ibb.co/DbPpsNP/face-recog2.png)
+![alt text](https://i.ibb.co/TWzbRNp/about.png)
